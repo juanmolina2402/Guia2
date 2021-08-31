@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Guia2</string>
+    <string name="msgVerLista">Ver lista</string>
+    <string name="msgAgregarNombre">Agregar nombre</string>
+    <string name="msgNom">Nombre: </string>
+    <string name="msgEscribir">Ingresar nombre: </string>
+    <string name="msgGuardar">Guardar</string>
+    <string name="msgDatos">Mostrar datos</string>
+    <string name="msgMisDatos">Mis datos</string>
+    <string name="msgNombre">Nombre: Juan Carlos Molina Chamel</string>
+    <string name="msgCodigo">Código: MC17-I04-004</string>
+</resources>
