@@ -1,10 +1,8 @@
 package com.example.guia2;
 
 import static com.example.guia2.RegistrarActivity.persona;
-
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 import android.view.MenuItem;
 import android.widget.ArrayAdapter;
